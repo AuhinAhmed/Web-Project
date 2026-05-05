@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav{
+    background-color: rgba(80, 77, 233, 0.726);
+    padding: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.yes{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 10px;
+    
+}
+
+.jk{
+    margin: auto;
+}
+
+.he{
+    margin-left: 10px;
+}
+
+.er{
+     background-color: rgb(134, 204, 106);
+     margin-top: 20px;
+}
+
+.er:hover{
+    background-color: rgb(167, 134, 197);
+    color: yellow;
+    cursor: pointer;
+    transition: 1s;
+}
+
+dropdown-menu ul li a{
+    background-color: aqua;
+}
+
+
+
+.avatar {
+   
+    margin-left:800px;
+    margin-top: 20px;
+    height: 300px;
+    
+}
+
+.tor{
+
+    background-image: linear-gradient(rgb(138, 207, 58),pink);
+}
+
+.top{
+    
+    text-align: center;
+}
+
+.yu{
+    text-align: center;
+}
+
+.tr{
+    text-align: center;
+}
+
+.re{
+    
+    background-color: rgb(167, 197, 56);
+    width: 200px;
+    text-align: center;
+    text-decoration: dotted;
+    margin-left: 215px;
+    border-radius: 5px;
+    color: white;  
+    
+    
+    
+}
+
+.wq{
+
+    margin-left: 20px;
+    background-color: white;
+}
+
+.re:hover{
+    background-color: rgb(255, 255, 255);
+    
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.carousel slide{
+
+    height: 50px;
+    width: 50px;
+}
+
+.toe {
+
+    height: 100px;
+    width: 100px;
+}
+
+
